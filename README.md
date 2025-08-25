@@ -1,6 +1,6 @@
 # Heart-Rate-Measurement-Using-Camera  
 
-![Result](https://github.com/USERNAME/REPO_NAME/blob/main/assets/result.jpg)
+![Result]((https://github.com/USERNAME/REPO_NAME/blob/main/assets/result.jpg))
 
 ## Abstract  
 - Heart Rate (HR) is a key physiological parameter and reflects a person’s overall physical state.  
@@ -51,4 +51,5 @@ python amplify_color.py
 
 ## For queries, contact:
 ## 📧 Saurabh Nariya – saurabhnariya1234@gmail.com
+
 
